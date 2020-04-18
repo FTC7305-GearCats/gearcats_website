@@ -5,7 +5,7 @@ active = true
 weight = 20
 
 title = "We are the GearCats"
-foo = "Gear-Cat-Logo.png"
+img = "Gear-Cat-Logo.png"
 
 +++
 

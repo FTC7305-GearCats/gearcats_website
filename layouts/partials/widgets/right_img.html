@@ -1,12 +1,12 @@
 {{ $st := .page }}
 
 <div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    {{ with $st.Params.img }}<img src="img/{{ . }}">{{ end }}
-  </div>
   <div class="col-12 col-lg-8">
     {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
     {{ $st.Content }}
+  </div>
+  <div class="col-12 col-lg-4 section-heading">
+    {{ with $st.Params.img }}<img src="img/{{ . }}">{{ end }}
   </div>
 </div>
