@@ -31,7 +31,12 @@
 [[main]]
   name = "Events"
   url = "/events/"
-  weight = 60
+  weight = 70
+
+[[main]]
+  name = "Gallery"
+  url = "/gallery/"
+  weight = 80
 
 
 # Link to a PDF of your resume/CV from the menu.
