@@ -1,13 +1,11 @@
 +++
-widget = "blank"
+widget = "left_img"
 headless = true
 active = true
 weight = 20
 
 title = "We are the GearCats"
-
-[design]
-columns = "2"
+foo = "Gear-Cat-Logo.png"
 
 +++
 
