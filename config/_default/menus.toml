@@ -43,6 +43,11 @@
   url = "/sponsors/"
   weight = 90
 
+[[main]]
+  name = "Join the Team"
+  url = "/join-the-team/"
+  weight = 100
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
