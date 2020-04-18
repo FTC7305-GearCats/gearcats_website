@@ -36,22 +36,27 @@ advance to the State competition, or World championship.
 # Build-Season Dates (September-December)
 
 Kick-off and Game Reveal  
-September 8, 2018, 9:30a-2:00p  
+September 7, 2019, 9:30a-2:00p  
 (Dow Building UofM North Campus)
 
 ## Meeting Dates and Location
 
-Wednesday 5-7 and Sunday 4-7  
+Wednesday 4-6 and Sunday 4-6  
 Other dates as needed to prepare  
 Clague Middle School Room 144  
 2616 Nixon Rd, Ann Arbor, MI 48105  
 
 # Competition Dates
 
-Howell FTC Qualifier  
-November 2-3, 2018  
-Parker Middle School  
-400 Wright Rd.  
-Howell, MI 48843
+Bedford Qualifier  
+November 8-9, 2019  
+Bedford High School  
+8285 Jackman Rd.  
+Temperance, MI 48182  
 
-MI State Competition: December 14-15, 2018
+Oxford Qualifier 2  
+November 23-24, 2019  
+Oxford Middle School  
+1420 E Lakeville Rd.  
+Oxford, MI 48371  
+
