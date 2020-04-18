@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = "7305 GearCats Robotics"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "GearCats, FTC Team 7305, is a FIRST Tech Challenge robotics team for middle school students in the Ann Arbor Area. Sponsored by FRC Team 830, the RatPack."
 
 ############################
 ## Site Features
