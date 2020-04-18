@@ -1,14 +1,22 @@
 +++
-# About widget.
-widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear in.
+widget = "blank"
+headless = true
+active = true
+weight = 20
 
-title = "Biography"
+title = "We are the GearCats"
 
-# Choose the user profile to display
-# This should be the username of a profile in your `content/authors/` folder.
-# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
-author = "admin"
+[design]
+columns = "2"
+
 +++
+
+Middle school students gain education in STEM fields (Science,
+Technology, Engineering, and Mathematics) from high school student
+mentors eager to share and grow their knowledge. As Gearcat students,
+we strategize, design, build, program, troubleshoot, and compete with
+the team robot for a chance at winning the national
+championship. Students come together as a team to put their best foot
+forward when building and competing. Emphasizing gracious
+professionalism, teams compete fairly with one another and support
+opposing teams to perform at their best.
