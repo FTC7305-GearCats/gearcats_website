@@ -175,3 +175,4 @@ collections:
       - {label: "Headless", name: "headless", widget: "boolean", default: true}
       - {label: "Active", name: "active", widget: "boolean"}
       - {label: "Weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
