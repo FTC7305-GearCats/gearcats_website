@@ -16,11 +16,12 @@
   {{ $resource_page = $.Page }}
 {{ end }}
 
-<div>
+<div class="container">
+  <div class="row justify-content-center">
   {{ $images := ($resource_page.Resources.ByType "image").Match $coll_path }}
   {{ with $images }}
     {{ range $images }}
-      {{ $image := .Resize "x190" }}
+      {{ $image := .Fit "200x200" }}
       {{ $filename := path.Base .Name }}
       {{ $alt := "" }}
       {{ if $.Page.Params.logos }}
@@ -28,7 +29,10 @@
           {{ $alt = .alt }}
         {{end}}
       {{end}}
-      <img src="{{ $image.RelPermalink }}" alt="{{ $alt }}">
+      <div class="column align-self-center">
+        <img class="m-2" src="{{ $image.RelPermalink }}" alt="{{ $alt }}">
+      </div>
     {{end}}
   {{end}}
+  </div>
 </div>
