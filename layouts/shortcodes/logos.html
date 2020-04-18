@@ -1,0 +1,34 @@
+{{ $collection := "" }}
+{{ with .Get "collection" }}
+  {{ $collection = . }}
+{{else}}
+  {{ $collection = "logos" }}
+{{end}}
+
+{{/* Set image path and page bundle that images are associated with. */}}
+{{ $coll_path := "" }}
+{{ $resource_page := "" }}
+{{ if eq .Page.Parent.Type "widget_page" }}
+  {{ $coll_path = printf "%s/%s/*" (path.Base (path.Split .Page.Path).Dir) $collection }}
+  {{ $resource_page = $.Page.Parent }}
+{{ else }}
+  {{ $coll_path = printf "%s/*" $collection }}
+  {{ $resource_page = $.Page }}
+{{ end }}
+
+<div>
+  {{ $images := ($resource_page.Resources.ByType "image").Match $coll_path }}
+  {{ with $images }}
+    {{ range $images }}
+      {{ $image := .Resize "x190" }}
+      {{ $filename := path.Base .Name }}
+      {{ $alt := "" }}
+      {{ if $.Page.Params.logos }}
+        {{ range (where (where $.Page.Params.logos "collection" $collection) "image" $filename) }}
+          {{ $alt = .alt }}
+        {{end}}
+      {{end}}
+      <img src="{{ $image.RelPermalink }}" alt="{{ $alt }}">
+    {{end}}
+  {{end}}
+</div>
