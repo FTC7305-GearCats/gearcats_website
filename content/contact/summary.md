@@ -5,7 +5,7 @@ headles = true
 active = true
 weight = 20
 
-title = "Gearcats"
+title = "GearCats"
 
 [design]
 columns = 2
