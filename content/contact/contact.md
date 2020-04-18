@@ -5,7 +5,7 @@ headless = true
 active = true
 weight = 130
 
-title = "Contact"
+title = "Give Us a Shout"
 subtitle = ""
 
 # Automatically link email and phone?
