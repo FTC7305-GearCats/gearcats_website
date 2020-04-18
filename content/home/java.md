@@ -7,7 +7,7 @@ weight = 70
 
 title = "Java"
 subtitle = ""
-img = "java.png"
+img = "java.svg"
 
 [design.spacing]
 padding = ["20px", "0", "20px", "0"]
