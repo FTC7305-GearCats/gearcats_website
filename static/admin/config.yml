@@ -168,6 +168,7 @@ collections:
     label: "Home"
     folder: 'content/home'
     create: true
+    sortableFields: ['title', 'weight']
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
@@ -176,3 +177,14 @@ collections:
       - {label: "Active", name: "active", widget: "boolean"}
       - {label: "Weight", name: "weight", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - label: Design
+        name: "design"
+        widget: object
+        fields:
+          - label: "Background"
+            name: "background"
+            widget: object
+            fields:
+              - label: "Image"
+                name: "image"
+                widget: "image"
