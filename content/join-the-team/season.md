@@ -36,27 +36,16 @@ advance to the State competition, or World championship.
 # Build-Season Dates (September-December)
 
 Kick-off and Game Reveal  
-September 7, 2019, 9:30a-2:00p  
-(Dow Building UofM North Campus)
+September 18, 2021  
+Time and location TBD  
 
 ## Meeting Dates and Location
 
-Wednesday 4-6 and Sunday 4-6  
+Meeting schedule TBD  
 Other dates as needed to prepare  
 Clague Middle School Room 144  
 2616 Nixon Rd, Ann Arbor, MI 48105  
 
 # Competition Dates
 
-Bedford Qualifier  
-November 8-9, 2019  
-Bedford High School  
-8285 Jackman Rd.  
-Temperance, MI 48182  
-
-Oxford Qualifier 2  
-November 23-24, 2019  
-Oxford Middle School  
-1420 E Lakeville Rd.  
-Oxford, MI 48371  
-
+TBD
