@@ -12,7 +12,7 @@ columns = 2
 
 +++
 
-Madhan Ramaswami – _Lead Mentor_  
+Mary Manthey and Sriram Gopal - _Lead Mentors_  
 GearCatsRobotics@gmail.com
 
 Email the mentors  
