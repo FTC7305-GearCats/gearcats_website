@@ -23,8 +23,10 @@ in kind. [Start a conversation with us!](mailto:GearCatsRobotics@gmail.com)
 
 # Join as a Student 
 
-Are you interested in becoming a member of the GearCats? Start the
-conversation by emailing us directly GearCatsRobotics@gmail.com
+Are you interested in becoming a member of the GearCats? Let us know
+you're interested by filling out this [Google
+Form](https://forms.gle/Qvy7jdTh1fjC2Njd6). You can email any
+questions to GearCatsRobotics@gmail.com
 
 # Looking for High School Robotics?
 
