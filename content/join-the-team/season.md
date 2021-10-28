@@ -41,11 +41,16 @@ Time and location TBD
 
 ## Meeting Dates and Location
 
-Meeting schedule TBD  
-Other dates as needed to prepare  
+Meeting schedule: Sundays 6-8pm  
+Other dates as needed to prepare (currently Wednesdays 6-8pm)  
 Clague Middle School Room 144  
 2616 Nixon Rd, Ann Arbor, MI 48105  
 
 # Competition Dates
 
-TBD
+The team is currently signed up for two competitions but hasn't
+decided if they will go to both.
+
+Nov 13: [Novi Qualifier](https://firstinmichigan.us/FTC/events/novi/)
+
+Nov 20: [Howell Qualifier](https://firstinmichigan.us/FTC/events/howell/)
