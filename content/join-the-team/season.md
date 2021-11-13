@@ -48,9 +48,6 @@ Clague Middle School Room 144
 
 # Competition Dates
 
-The team is currently signed up for two competitions but hasn't
-decided if they will go to both.
-
 Nov 13: [Novi Qualifier](https://firstinmichigan.us/FTC/events/novi/)
 
 Nov 20: [Howell Qualifier](https://firstinmichigan.us/FTC/events/howell/)
