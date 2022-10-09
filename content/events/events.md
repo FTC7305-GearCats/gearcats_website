@@ -15,7 +15,3 @@ Sundays: 6-8pm
 Wednesdays: 6-8pm (until competitions are over)
 
 # Competitions
-
-Nov 13: [Novi Qualifier](https://firstinmichigan.us/FTC/events/novi/)
-
-Nov 20: [Howell Qualifier](https://firstinmichigan.us/FTC/events/howell/)
